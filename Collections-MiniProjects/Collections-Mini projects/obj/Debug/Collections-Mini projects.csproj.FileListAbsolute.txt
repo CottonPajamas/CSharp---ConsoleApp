@@ -1,0 +1,7 @@
+C:\Users\Achilles\Google Drive\Practice - C#\Part I\Collections-Mini projects\Collections-Mini projects\bin\Debug\Collections-Mini projects.exe.config
+C:\Users\Achilles\Google Drive\Practice - C#\Part I\Collections-Mini projects\Collections-Mini projects\bin\Debug\Collections-Mini projects.exe
+C:\Users\Achilles\Google Drive\Practice - C#\Part I\Collections-Mini projects\Collections-Mini projects\bin\Debug\Collections-Mini projects.pdb
+C:\Users\Achilles\Google Drive\Practice - C#\Part I\Collections-Mini projects\Collections-Mini projects\obj\Debug\Collections-Mini projects.csprojResolveAssemblyReference.cache
+C:\Users\Achilles\Google Drive\Practice - C#\Part I\Collections-Mini projects\Collections-Mini projects\obj\Debug\Collections-Mini projects.csproj.CoreCompileInputs.cache
+C:\Users\Achilles\Google Drive\Practice - C#\Part I\Collections-Mini projects\Collections-Mini projects\obj\Debug\Collections-Mini projects.exe
+C:\Users\Achilles\Google Drive\Practice - C#\Part I\Collections-Mini projects\Collections-Mini projects\obj\Debug\Collections-Mini projects.pdb
