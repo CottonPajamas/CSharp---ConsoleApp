@@ -1,0 +1,7 @@
+C:\Users\Achilles\Documents\Visual Studio 2017\Projects\Collections-ObjectOrientedProgramming\Collections-ObjectOrientedProgramming\obj\Debug\Collections-ObjectOrientedProgramming.csprojResolveAssemblyReference.cache
+C:\Users\Achilles\Documents\Visual Studio 2017\Projects\Collections-ObjectOrientedProgramming\Collections-ObjectOrientedProgramming\obj\Debug\Collections-ObjectOrientedProgramming.csproj.CoreCompileInputs.cache
+C:\Users\Achilles\Documents\Visual Studio 2017\Projects\Collections-ObjectOrientedProgramming\Collections-ObjectOrientedProgramming\bin\Debug\Collections-ObjectOrientedProgramming.exe.config
+C:\Users\Achilles\Documents\Visual Studio 2017\Projects\Collections-ObjectOrientedProgramming\Collections-ObjectOrientedProgramming\bin\Debug\Collections-ObjectOrientedProgramming.exe
+C:\Users\Achilles\Documents\Visual Studio 2017\Projects\Collections-ObjectOrientedProgramming\Collections-ObjectOrientedProgramming\bin\Debug\Collections-ObjectOrientedProgramming.pdb
+C:\Users\Achilles\Documents\Visual Studio 2017\Projects\Collections-ObjectOrientedProgramming\Collections-ObjectOrientedProgramming\obj\Debug\Collections-ObjectOrientedProgramming.exe
+C:\Users\Achilles\Documents\Visual Studio 2017\Projects\Collections-ObjectOrientedProgramming\Collections-ObjectOrientedProgramming\obj\Debug\Collections-ObjectOrientedProgramming.pdb
